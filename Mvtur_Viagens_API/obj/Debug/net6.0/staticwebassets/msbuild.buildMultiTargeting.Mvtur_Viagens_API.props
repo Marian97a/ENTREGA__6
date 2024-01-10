@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mvtur_Viagens_API.props" />
+</Project>
